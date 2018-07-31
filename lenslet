@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "ARArtifact",
+			"anchor": 
+			{
+				"@type": "Brand",
+				"name": "Nike"
+			},
+			"asset":
+			{
+				"@type": "WebPage",
+				"name": "Rudy Nike Lenslet",
+				"description": "Example Nike Logo card view.",
+				"image": "https://dumielauxepices.net/sites/default/files/nike-logo-clipart-little-696773-1810583.jpg",
+				"url": "https://www.nike.com/"
+			}
+		}
+	</script>
+	<title>Rudy's Lenslet</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="description" content="A NodeJS webpage built by slowcook">
+  <meta name="author" content="Walgreens">
+  <link rel="icon" href="https://dumielauxepices.net/sites/default/files/nike-logo-clipart-little-696773-1810583.jpg">
+  <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://services-qa.walgreens.com/lenslet/stylesheets/main.css">
+  <script type="text/javascript" src="https://services-qa.walgreens.com/lenslet/js/jquery.min.js"></script>
+  <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+  <H1>Rudy's Nike lenslet</H1>
+  <H2>First lenslet</H2>
+  <P> This is a new paragraph!
+</body>
+</html>
